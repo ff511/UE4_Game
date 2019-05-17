@@ -1,0 +1,2 @@
+D:\DATA\UE4 Project\my_project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+D:\DATA\UE4 Project\my_project\MyProject\Source\MyProject\MyProject.h

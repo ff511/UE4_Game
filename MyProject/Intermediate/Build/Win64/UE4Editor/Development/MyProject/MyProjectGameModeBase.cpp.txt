@@ -1,0 +1,7 @@
+D:\DATA\UE4 Project\my_project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+D:\DATA\UE4 Project\my_project\MyProject\Source\MyProject\MyProjectGameModeBase.h
+D:\SOFTWARE\UE4\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\SOFTWARE\UE4\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\SOFTWARE\UE4\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\SOFTWARE\UE4\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\DATA\UE4 Project\my_project\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyProjectGameModeBase.generated.h
